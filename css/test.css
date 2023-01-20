@@ -1,0 +1,10 @@
+#drawing{
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    position: absolute;
+}   
+.circle{
+    background-color: black;
+    position: absolute;
+}
